@@ -31,6 +31,8 @@
 		- [ ] Protocol and ports = Specified protocols and ports -> tcp: 3333
 		- [ ] Save
 
+## Configurando servidor
+
 - [ ] Acesse sua maquina virtual no ssh web
 	- [ ] Altere para user root ```sudo su```
 	- [ ] ```$ apt update```
