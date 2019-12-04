@@ -38,7 +38,7 @@
 	- [ ] ```$ apt update```
 	- [ ] ```$ apt upgrade```
 	- [ ] ```$ adduser deploy```
-	- [ ] ```$ user mod -aG sudo deploy```
+	- [ ] ```$ usermod -aG sudo deploy```
 	- [ ] ```$ cp ~/.ssh/authorized_keys /home/deploy```
 	- [ ] ```$ cd /home/deploy```
 	- [ ] ```$ mkdir .ssh```
