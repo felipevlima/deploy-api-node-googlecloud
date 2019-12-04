@@ -1,4 +1,4 @@
-# Deploy Node.JS on Google Cloud Platform
+# :computer: Deploy Node.JS on Google Cloud Platform
 
 - [ ] Criar instancia no Compute Engine
 	- [ ] Firewall - Allow HTTP e Allow HTTPS
@@ -193,3 +193,18 @@ ClientAliveCountMax 99999
 - [ ] Adicionar variável que foi passado após executar comando acima. Exemplo: ```sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u deploy --hp /home/deploy```
 
 ## Integração continua (em breve)
+
+... 
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+---
+
+Make with ♥ by Felipe Vieira :wave:
