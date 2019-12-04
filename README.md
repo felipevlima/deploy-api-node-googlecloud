@@ -89,7 +89,7 @@ $ sudo systemctl status docker
 ## Configurando Serviços
 
 - [ ] ```$ docker ps``` vai dar permission denied, execute os comandos:
-	- [ ] ```$ sudo grouped docker```
+	- [ ] ```$ sudo groupadd docker```
 	- [ ] ```$ sudo usermod -aG docker $USER```
 	- [ ] deslogar e logar na maquina
 
