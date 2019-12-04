@@ -8,7 +8,7 @@
 
 <p align="center">List Version: 1.0.0-alpha</p>
 
-# :computer: Deploy Node.JS on Google Cloud Platform
+## :computer: Criando uma instancia e onfigurando Firewall
 
 - [ ] Criar instancia no Compute Engine
 	- [ ] Firewall - Allow HTTP e Allow HTTPS
